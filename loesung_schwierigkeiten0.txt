@@ -1,0 +1,2 @@
+Schwierigkeitsranking der Aufgaben: [('B', 1), ('A', 2), ('E', 3), ('D', 4), ('G', 5), ('F', 6), ('C', 7)]
+Valide Anordnung: B; E; D; F; C
